@@ -1,2 +1,2 @@
 # Event_Driven_Programming_EP3
-Exploring keyboard events through their appearance, properties, and functional responses, participants study event-driven programming. Learners will understand how user input activates system actions, how listeners manage events, and how response mechanisms operate, enabling the creation of interactive, adaptive, and responsive software applications.
+Using keyboard events as illustrative examples, participants investigate event-driven programming to understand how user actions initiate precise system responses. Learners will explore event capture, listener management, and response execution, gaining expertise in creating interactive, adaptive, and dynamically responsive software applications.
